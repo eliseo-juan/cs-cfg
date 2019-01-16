@@ -7,5 +7,7 @@
 ### Plugins
 
 [Simple Radar](http://simpleradar.com/)
+
 [BananaGaming - TextColorMod](https://bananagaming.tv/textcolormod.php)
+
 [BananaGaming - ImprovedRadioMod](https://bananagaming.tv/improvedradiomod.php)
