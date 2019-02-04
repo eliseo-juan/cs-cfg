@@ -10,6 +10,6 @@
 
 ### Other Settings
 - Windows Sensitivity: 6/11
-- Mouse DPI: 460
+- Mouse DPI: 960
 - Mouse Polling Rate: 1000hz
 - 1920x1080
