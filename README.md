@@ -13,5 +13,5 @@
 - Mouse DPI: 960
 - Mouse Polling Rate: 1000hz
 - 1920x1080
-- FOV X: 46
+- FOV X: 106
 - FOV Y: 74
