@@ -1,6 +1,6 @@
 ### Launch Options
 ```
--novid -freq 144 -refresh 144 -tickrate 128 -console +exec 1tastic.cfg -language bananagaming
+-novid -freq 144 -refresh 144 -tickrate 128 -console -language bananagaming
 ```
 
 ### Plugins
