@@ -1,14 +1,12 @@
 ### Launch Options
 ```
--novid -language textmod
+-novid -freq 144 -refresh 144 -tickrate 128 -console -language colormod
 ```
 
 ### Plugins
 - [Simple Radar](http://simpleradar.com/)
-- [Text Mod](https://gist.github.com/xPaw/056b29be7ae9c143ed623a9c4c10cf50)
-- [Practice config](https://gist.github.com/xPaw/4681640268dfde474ccb)
-
-### Video Settings
+- [BananaGaming - TextColorMod](https://bananagaming.tv/textcolormod.php)
+- [BananaGaming - ImprovedRadioMod](https://bananagaming.tv/improvedradiomod.php)
 
 ### Other Settings
 - Windows Sensitivity: 6/11
