@@ -7,18 +7,22 @@
 - [Simple Radar](http://simpleradar.com/)
 - [TextMod](https://gist.github.com/xPaw/056b29be7ae9c143ed623a9c4c10cf50)
 
+### Guides
+- [NVIDIA Reflex: Lowest Latency In Counter-Strike 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3039023209)
+
 ### Video Settings
 
 |Setting|Value|
 |:---|---|
 |Boost Player Contrast| Enabled |
 |Wait for Vertical Sync | Disabled|
-|Multisampling Anti-Aliasing Mode | 2X MSAA|
-|Global Shadow Quality | Very High |
-|Model/Texture Detail | Low|
+|Multisampling Anti-Aliasing Mode | CMAA2|
+|Global Shadow Quality | High |
+|Model/Texture Detail | Medium |
+|Texture Filtering Mode | Bilinear|
 |Shader Detail | Low|
 |Particle Detail | Low|
-|Ambient Occlusion | Disabled|
+|Ambient Occlusion | Medium|
 |High Dynamic Range | Quality|
 |FidelityFX Super Resolution | Disabled|
 |NVIDIA Reflex Low Latency | Disabled|
