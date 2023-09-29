@@ -16,4 +16,4 @@ steam.inf
 cfg/videodefaults.txt
 cfg/server_default.cfg
 cfg/server.cfg
-cfg\gamestate_integration_logitech.cfg
+cfg/gamestate_integration_logitech.cfg
