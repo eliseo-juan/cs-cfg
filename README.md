@@ -9,6 +9,7 @@
 
 ### Guides
 - [NVIDIA Reflex: Lowest Latency In Counter-Strike 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3039023209)
+- [Refrag.gg: Optimization Guide](https://wiki.refrag.gg/en/pc-optimization-increase-fps-csgo)
 
 ### Video Settings
 
