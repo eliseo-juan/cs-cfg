@@ -19,13 +19,13 @@
 |Multisampling Anti-Aliasing Mode | CMAA2|
 |Global Shadow Quality | High |
 |Model/Texture Detail | Medium |
-|Texture Filtering Mode | Bilinear|
-|Shader Detail | Low|
-|Particle Detail | Low|
-|Ambient Occlusion | Medium|
-|High Dynamic Range | Quality|
-|FidelityFX Super Resolution | Disabled|
-|NVIDIA Reflex Low Latency | Disabled|
+|Texture Filtering Mode | Bilinear |
+|Shader Detail | Low |
+|Particle Detail | Low |
+|Ambient Occlusion | Medium |
+|High Dynamic Range | Quality |
+|FidelityFX Super Resolution | Disabled |
+|NVIDIA Reflex Low Latency | Enabled |
 
 
 ### Other Settings
