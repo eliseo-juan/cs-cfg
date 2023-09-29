@@ -7,7 +7,7 @@ backup_*
 *.vcfg
 gameinfo.gi
 gameinfo_branchspecific.gi
-replay/
+replays/
 
 cfg/gamemode_*
 cfg/perftest.cfg
@@ -16,3 +16,4 @@ steam.inf
 cfg/videodefaults.txt
 cfg/server_default.cfg
 cfg/server.cfg
+cfg\gamestate_integration_logitech.cfg
