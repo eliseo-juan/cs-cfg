@@ -8,6 +8,9 @@ backup_*
 gameinfo.gi
 gameinfo_branchspecific.gi
 replays/
+import_scripts/
+tools/
+lighting
 
 cfg/gamemode_*
 cfg/perftest.cfg
@@ -17,3 +20,7 @@ cfg/videodefaults.txt
 cfg/server_default.cfg
 cfg/server.cfg
 cfg/gamestate_integration_logitech.cfg
+csgo.fgd
+
+postprocessing.fgd
+readonly_tools_asset_info.bin
