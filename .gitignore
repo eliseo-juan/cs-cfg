@@ -1,25 +1,15 @@
-bin
-maps
-panorama
-resource
-backup_*
+
 *.vpk
 *.vcfg
-gameinfo.gi
-gameinfo_branchspecific.gi
-replays/
-import_scripts/
-tools/
-lighting
 
-cfg/gamemode_*
-cfg/perftest.cfg
+gamemode_*
+perftest.cfg
 ServerConfig.vdf
 steam.inf
-cfg/videodefaults.txt
-cfg/server_default.cfg
-cfg/server.cfg
-cfg/gamestate_integration_logitech.cfg
+videodefaults.txt
+server_default.cfg
+server.cfg
+gamestate_integration_logitech.cfg
 csgo.fgd
 
 postprocessing.fgd
